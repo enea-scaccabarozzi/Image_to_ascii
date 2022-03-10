@@ -1,0 +1,5 @@
+./cpp/.vscode*
+./cpp/Build/Main
+./cpp/Build/out.txt
+./cpp/Build/*.o
+
